@@ -31,4 +31,11 @@ Que consumira dos módulos de cliente e log a fim de apresentar os dados
 ## Arquitetura Proposta
 
 ![Arquitetura Proposta](images/arquitetura.png) <BR>
+  
+ 
+## Estudo
+https://www.youtube.com/watch?v=Q8eajxcS6dQ <BR>
+  
+https://www.youtube.com/watch?v=S9uPNppGsGo <BR>
+
 
