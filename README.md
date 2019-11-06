@@ -21,11 +21,14 @@ Que disponibilizará uma rota de recuperação de dados, bem como será incorpor
 | `/logs`                                |    GET        |     -     |    JSON    |Lista todos os logs inseridos  |
 
 ### Frontend React 
-Que consumira dos módulos de cliente e log a fim de apresentar os dados
+    - Que consumira dos módulos de cliente e log a fim de apresentar os dados
+    - Apresentará formulário para criação de novo cliente
+    - Grid para listagem de clientes
+    - Gráficos para apresentação dos dados de log's
 
 ## Arquitetura Proposta
 
-![Arquitetura Proposta](images/arquitetura.png) <BR>
+![Arquitetura Proposta](images/arquitetura_v2.png) <BR>
   
  
 ## Estudo
