@@ -23,5 +23,14 @@ Que disponibilizará uma rota de recuperação de dados, bem como será incorpor
 ### Frontend React 
 Que consumira dos módulos de cliente e log a fim de apresentar os dados
 
-Format: ![Alt Text](https://bit.ly/2WVtPFf) <BR>
+## Arquitetura Proposta
+
+![Arquitetura Proposta](images/arquitetura.png) <BR>
+  
+ 
+## Estudo
+https://www.youtube.com/watch?v=Q8eajxcS6dQ <BR>
+  
+https://www.youtube.com/watch?v=S9uPNppGsGo <BR>
+
 
