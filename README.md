@@ -1,13 +1,8 @@
-## Nossa aplicação consistirá em 4 módulos principais
+## Nossa aplicação consistirá em 3 módulos principais
 
-### Servidor Python
-Nosso servidor que vai conter os dados dos clientes, deve estar sincronizado com todos os clientes que dele consomem dados, será único para todos
-
-| Endpoints                              |   Method      | Consumes  |  Produces  |       Result                      |
-| ---------------------------------------|:-------------:|:---------:|:----------:|----------------------------------:|
-| `/clients`                             |    GET        |     -     |   JSON     |Lista todos os clientes inseridos  |
-| `/clients`                             |    POST       |   JSON    |     -      |Insere um novo cliente             | 
-
+### Servidor Python Django
+    Nosso servidor que vai conter os dados dos clientes cadastrados e dos logs registrados
+    Registrará os nossos micro-serviços de cliente-facade e log-facade
 
 ### Clientes Facade
 Disponibilizará uma rota de criação de novos clientes, bem como consulta dos clientes já cadastrados
