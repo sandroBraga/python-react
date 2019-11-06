@@ -5,7 +5,7 @@
     - Registrará os nossos micro-serviços de cliente-facade e log-facade
 
 ### Clientes Facade
-Disponibilizará uma rota de criação de novos clientes, bem como consulta dos clientes já cadastrados
+    - Disponibilizará uma rota de criação de novos clientes, bem como consulta dos clientes já cadastrados
 
 | Endpoints                              |   Method      | Consumes  |  Produces  |       Result                      |
 | ---------------------------------------|:-------------:|:---------:|:----------:|----------------------------------:|
@@ -14,7 +14,7 @@ Disponibilizará uma rota de criação de novos clientes, bem como consulta dos 
 | `/client?id=`                          |    GET        |    -      |    JSON    |Busca o cliente baseado em um id   |
 
 ### Log Facade
-Que disponibilizará uma rota de recuperação de dados, bem como será incorporado ao módulo de cliente facade a fim de logar a latência da nossa api
+    - Que disponibilizará uma rota de recuperação de dados, bem como será incorporado ao módulo de cliente facade a fim de logar a latência da nossa api
 
 | Endpoints                              |   Method      | Consumes  |  Produces  |       Result                  |
 | ---------------------------------------|:-------------:|:---------:|:----------:|------------------------------:|
